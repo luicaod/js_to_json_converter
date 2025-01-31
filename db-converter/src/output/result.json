@@ -1,0 +1,3750 @@
+[
+  {
+    "nome": "Obras",
+    "personagens": [
+      {
+        "nome": "Tower of God",
+        "variacaoList": []
+      },
+      {
+        "nome": "Pokémon",
+        "variacaoList": []
+      },
+      {
+        "nome": "Akame ga Kill",
+        "variacaoList": []
+      },
+      {
+        "nome": "Darling in the FranXX",
+        "variacaoList": []
+      },
+      {
+        "nome": "Dr. Stone",
+        "variacaoList": []
+      },
+      {
+        "nome": "Dumbbell Nan Kilo Moteru",
+        "variacaoList": []
+      },
+      {
+        "nome": "One-Punch Man",
+        "variacaoList": []
+      },
+      {
+        "nome": "Jujutsu Kaisen",
+        "variacaoList": []
+      },
+      {
+        "nome": "Kaguya-sama wa Kokurasetai",
+        "variacaoList": []
+      },
+      {
+        "nome": "Kanojo",
+        "sexo": "Okarishimasu",
+        "variacaoList": []
+      },
+      {
+        "nome": "Kimetsu no Yaiba",
+        "variacaoList": []
+      },
+      {
+        "nome": "Kobayashi-san Chi no Maid Dragon",
+        "variacaoList": []
+      },
+      {
+        "nome": "Kono Subarashii Sekai ni Shukufuku wo",
+        "variacaoList": []
+      },
+      {
+        "nome": "One Punch-Man",
+        "variacaoList": []
+      },
+      {
+        "nome": "ReZero kara Hajimeru Isekai Seikatsu",
+        "variacaoList": []
+      },
+      {
+        "nome": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+        "variacaoList": []
+      },
+      {
+        "nome": "Shingeki no Kyojin",
+        "variacaoList": []
+      },
+      {
+        "nome": "Sono Bisque Doll wa Koi wo Suru",
+        "variacaoList": []
+      },
+      {
+        "nome": "Tate no Yuusha no Nariagari",
+        "variacaoList": []
+      },
+      {
+        "nome": "Cyberpunk Edgerunners",
+        "variacaoList": []
+      },
+      {
+        "nome": "Ijiranaide",
+        "sexo": "Nagatoro-san",
+        "variacaoList": []
+      },
+      {
+        "nome": "Boku no Hero Academia",
+        "variacaoList": []
+      },
+      {
+        "nome": "Chainsaw Man",
+        "variacaoList": []
+      },
+      {
+        "nome": "One Piece",
+        "variacaoList": []
+      },
+      {
+        "nome": "Dororo",
+        "variacaoList": []
+      },
+      {
+        "nome": "Baldur's Gate 3",
+        "variacaoList": []
+      },
+      {
+        "nome": "NieR Automata",
+        "variacaoList": []
+      },
+      {
+        "nome": "Stellar Blade",
+        "variacaoList": []
+      },
+      {
+        "nome": "League of Legends",
+        "variacaoList": []
+      },
+      {
+        "nome": "Valorant",
+        "variacaoList": []
+      },
+      {
+        "nome": "Overwatch",
+        "variacaoList": []
+      },
+      {
+        "nome": "Final Fantasy",
+        "variacaoList": []
+      },
+      {
+        "nome": "Stardew Valley",
+        "variacaoList": []
+      },
+      {
+        "nome": "Resident Evil",
+        "variacaoList": []
+      },
+      {
+        "nome": "Cyberpunk 2077",
+        "variacaoList": []
+      },
+      {
+        "nome": "Street Fighter",
+        "variacaoList": []
+      },
+      {
+        "nome": "Cross Code",
+        "variacaoList": []
+      },
+      {
+        "nome": "Tower of God",
+        "variacaoList": []
+      },
+      {
+        "nome": "Pokémon",
+        "variacaoList": []
+      },
+      {
+        "nome": "Akame ga Kill",
+        "variacaoList": []
+      },
+      {
+        "nome": "Darling in the FranXX",
+        "variacaoList": []
+      },
+      {
+        "nome": "Dr. Stone",
+        "variacaoList": []
+      },
+      {
+        "nome": "Dumbbell Nan Kilo Moteru",
+        "variacaoList": []
+      },
+      {
+        "nome": "One-Punch Man",
+        "variacaoList": []
+      },
+      {
+        "nome": "Jujutsu Kaisen",
+        "variacaoList": []
+      },
+      {
+        "nome": "Kaguya-sama wa Kokurasetai",
+        "variacaoList": []
+      },
+      {
+        "nome": "Kanojo",
+        "sexo": "Okarishimasu",
+        "variacaoList": []
+      },
+      {
+        "nome": "Kimetsu no Yaiba",
+        "variacaoList": []
+      },
+      {
+        "nome": "Kobayashi-san Chi no Maid Dragon",
+        "variacaoList": []
+      },
+      {
+        "nome": "Kono Subarashii Sekai ni Shukufuku wo",
+        "variacaoList": []
+      },
+      {
+        "nome": "One Punch-Man",
+        "variacaoList": []
+      },
+      {
+        "nome": "ReZero kara Hajimeru Isekai Seikatsu",
+        "variacaoList": []
+      },
+      {
+        "nome": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+        "variacaoList": []
+      },
+      {
+        "nome": "Shingeki no Kyojin",
+        "variacaoList": []
+      },
+      {
+        "nome": "Sono Bisque Doll wa Koi wo Suru",
+        "variacaoList": []
+      },
+      {
+        "nome": "Tate no Yuusha no Nariagari",
+        "variacaoList": []
+      },
+      {
+        "nome": "Cyberpunk Edgerunners",
+        "variacaoList": []
+      },
+      {
+        "nome": "Ijiranaide",
+        "sexo": "Nagatoro-san",
+        "variacaoList": []
+      },
+      {
+        "nome": "Boku no Hero Academia",
+        "variacaoList": []
+      },
+      {
+        "nome": "Chainsaw Man",
+        "variacaoList": []
+      },
+      {
+        "nome": "One Piece",
+        "variacaoList": []
+      },
+      {
+        "nome": "Dororo",
+        "variacaoList": []
+      },
+      {
+        "nome": "Baldur's Gate 3",
+        "variacaoList": []
+      },
+      {
+        "nome": "NieR Automata",
+        "variacaoList": []
+      },
+      {
+        "nome": "Stellar Blade",
+        "variacaoList": []
+      },
+      {
+        "nome": "League of Legends",
+        "variacaoList": []
+      },
+      {
+        "nome": "Valorant",
+        "variacaoList": []
+      },
+      {
+        "nome": "Overwatch",
+        "variacaoList": []
+      },
+      {
+        "nome": "Final Fantasy",
+        "variacaoList": []
+      },
+      {
+        "nome": "Stardew Valley",
+        "variacaoList": []
+      },
+      {
+        "nome": "Resident Evil",
+        "variacaoList": []
+      },
+      {
+        "nome": "Cyberpunk 2077",
+        "variacaoList": []
+      },
+      {
+        "nome": "Street Fighter",
+        "variacaoList": []
+      },
+      {
+        "nome": "Cross Code",
+        "variacaoList": []
+      }
+    ]
+  },
+  {
+    "nome": "Tower of God",
+    "personagens": [
+      {
+        "nome": "Anak Zahard",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Androssi Zahard",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Hwa Ryun",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "8"
+      },
+      {
+        "nome": "Yeon Yihwa",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Yuri Zahard",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Xia Xia",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Khun Ran",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Khun Aguero Agnis",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "White Hoaqin",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Anak Zahard",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Androssi Zahard",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Hwa Ryun",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "8"
+      },
+      {
+        "nome": "Yeon Yihwa",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Yuri Zahard",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Xia Xia",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Khun Ran",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Khun Aguero Agnis",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "White Hoaqin",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      }
+    ]
+  },
+  {
+    "nome": "Pokémon",
+    "personagens": [
+      {
+        "nome": "Whitney",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Jasmine",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Clair",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Karen",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Courtney",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Shelly",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Professor Juniper",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Skyla",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Valerie",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Kali",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Linnea",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Blossom",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Zinnia",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Mallow",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Olivia",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Elaine",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Gloria",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Marnie",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Sonia",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Nessa",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Bea",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Juliana",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Nemona",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Red",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "8"
+      },
+      {
+        "nome": "Blue",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Ethan",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Brendan",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Wallace",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Steven Stone",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Lucas",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Hilbert",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Nate",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Elio",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Gladion",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Victor",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Ash",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Whitney",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Jasmine",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Clair",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Karen",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Courtney",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Shelly",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Professor Juniper",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Skyla",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Valerie",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Kali",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Linnea",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Blossom",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Zinnia",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Mallow",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Olivia",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Elaine",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Gloria",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Marnie",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Sonia",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Nessa",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Bea",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Juliana",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Nemona",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Red",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "8"
+      },
+      {
+        "nome": "Blue",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Ethan",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Brendan",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Wallace",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Steven Stone",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Lucas",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Hilbert",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Nate",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Elio",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Gladion",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Victor",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Ash",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      }
+    ]
+  },
+  {
+    "nome": "Akame ga Kill",
+    "personagens": [
+      {
+        "nome": "Akame",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Mine",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Esdeath",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Akame",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Mine",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Esdeath",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      }
+    ]
+  },
+  {
+    "nome": "Darling in the FranXX",
+    "personagens": [
+      {
+        "nome": "Zero Two",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "001",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Zero Two",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "001",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      }
+    ]
+  },
+  {
+    "nome": "Dr. Stone",
+    "personagens": [
+      {
+        "nome": "Kohaku",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Ruri",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Yuzuriha",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Senku Ishigami",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Gen Asagiri",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Tsukasa Shishio",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Kohaku",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Ruri",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Yuzuriha",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Senku Ishigami",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Gen Asagiri",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Tsukasa Shishio",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      }
+    ]
+  },
+  {
+    "nome": "Dumbbell Nan Kilo Moteru",
+    "personagens": [
+      {
+        "nome": "Soryuin Akemi",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Sakura Hibiki",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Gina Boyd",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Uehara Ayaka",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Soryuin Akemi",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Sakura Hibiki",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Gina Boyd",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Uehara Ayaka",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      }
+    ]
+  },
+  {
+    "nome": "Jujutsu Kaisen",
+    "personagens": [
+      {
+        "nome": "Shoko Ieiri",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Akari Nitta",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Nobara Kugisaki",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Maki Zenin",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Utahime Iori",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Mai Zenin",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Kasumi Miwa",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Mei Mei",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Yuki Tsukumo",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Riko Amanai",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Yorozu",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Takako Uro",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Satoru Gojo",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Yuji Itadori",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Megumi Fushiguro",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Yuta Okkotsu",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Noritoshi Kamo",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Kento Nanami",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Hajime Kashimo",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Hiromi Higuruma",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Mahito",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Choso",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Suguru Geto",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Ryoumei Sukuna",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Toji Fushiguro",
+        "sexo": "M",
+        "variacaoList": [
+          0
+        ],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Shoko Ieiri",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Akari Nitta",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Nobara Kugisaki",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Maki Zenin",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Utahime Iori",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Mai Zenin",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Kasumi Miwa",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Mei Mei",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Yuki Tsukumo",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Riko Amanai",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Yorozu",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Takako Uro",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Satoru Gojo",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Yuji Itadori",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Megumi Fushiguro",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Yuta Okkotsu",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Noritoshi Kamo",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Kento Nanami",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Hajime Kashimo",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Hiromi Higuruma",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Mahito",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Choso",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Suguru Geto",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Ryoumei Sukuna",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Toji Fushiguro",
+        "sexo": "M",
+        "variacaoList": [
+          0
+        ],
+        "numeroReferencia": "3"
+      }
+    ]
+  },
+  {
+    "nome": "Kaguya-sama wa Kokurasetai",
+    "personagens": [
+      {
+        "nome": "Kaguya Shinomiya",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Chika Fujiwara",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Ai Hayasaka",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Kaguya Shinomiya",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Chika Fujiwara",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Ai Hayasaka",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      }
+    ]
+  },
+  {
+    "nome": "Kanojo, Okarishimasu",
+    "personagens": [
+      {
+        "nome": "Chizuru Ichinose",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Ruka Sarashina",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Sumi",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Mami Nanami",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Chizuru Ichinose",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Ruka Sarashina",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Sumi",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Mami Nanami",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      }
+    ]
+  },
+  {
+    "nome": "Kimetsu no Yaiba",
+    "personagens": [
+      {
+        "nome": "Mitsuri Kanroji",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Shinobu Kocho",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Kanae Kocho",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Kanao Tsuyuri",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Aoi Kanzaki",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Nezuko Kamado",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Tamayo",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Daki",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Makomo",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Ruka Rengoku",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Makio",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Suma",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Giyu Tomioka",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Muichiro Tokito",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Kyojuro Rengoku",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Tengen Uzui",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Tanjiro Kamado",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "8"
+      },
+      {
+        "nome": "Zenitsu Agatsuma",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Inosuke Hashibira",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Yoriichi Tsugikuni",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Kokushibo",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Akaza",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Mitsuri Kanroji",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Shinobu Kocho",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Kanae Kocho",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Kanao Tsuyuri",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Aoi Kanzaki",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Nezuko Kamado",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Tamayo",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Daki",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Makomo",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Ruka Rengoku",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Makio",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Suma",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Giyu Tomioka",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Muichiro Tokito",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Kyojuro Rengoku",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Tengen Uzui",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Tanjiro Kamado",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "8"
+      },
+      {
+        "nome": "Zenitsu Agatsuma",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Inosuke Hashibira",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Yoriichi Tsugikuni",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Kokushibo",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Akaza",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      }
+    ]
+  },
+  {
+    "nome": "Kobayashi-san Chi no Maid Dragon",
+    "personagens": [
+      {
+        "nome": "Quetzalcoatl",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Tohru",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Elma",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Quetzalcoatl",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Tohru",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Elma",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      }
+    ]
+  },
+  {
+    "nome": "Kono Subarashii Sekai ni Shukufuku wo",
+    "personagens": [
+      {
+        "nome": "Aqua",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Megumin",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Darkness",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Yunyun",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Aqua",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Megumin",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Darkness",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Yunyun",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      }
+    ]
+  },
+  {
+    "nome": "One-Punch Man",
+    "personagens": [
+      {
+        "nome": "Tatsumaki",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Fubuki",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Mizuki",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Do-S",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Atomic Samurai",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Genos",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Garou",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Tatsumaki",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Fubuki",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Mizuki",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Do-S",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Atomic Samurai",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Genos",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Garou",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      }
+    ]
+  },
+  {
+    "nome": "ReZero kara Hajimeru Isekai Seikatsu",
+    "personagens": [
+      {
+        "nome": "Emilia",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Ram",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Rem",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Echidna",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Emilia",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Ram",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Rem",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Echidna",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      }
+    ]
+  },
+  {
+    "nome": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "personagens": [
+      {
+        "nome": "Mai Sakurajima",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Rio Futaba",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Tomoe Koga",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Nodoka Toyohama",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Mai Sakurajima",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Rio Futaba",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Tomoe Koga",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Nodoka Toyohama",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      }
+    ]
+  },
+  {
+    "nome": "Shingeki no Kyojin",
+    "personagens": [
+      {
+        "nome": "Mikasa Ackerman",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Ymir",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Historia Reiss",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Sasha Blouse",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Pieck Finger",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Levi Ackerman",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Mikasa Ackerman",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Ymir",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Historia Reiss",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Sasha Blouse",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Pieck Finger",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Levi Ackerman",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      }
+    ]
+  },
+  {
+    "nome": "Sono Bisque Doll wa Koi wo Suru",
+    "personagens": [
+      {
+        "nome": "Marin Kitagawa",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Sajuna Inui",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Marin Kitagawa",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Sajuna Inui",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      }
+    ]
+  },
+  {
+    "nome": "Tate no Yuusha no Nariagari",
+    "personagens": [
+      {
+        "nome": "Raphtalia",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Melty Q Melromarc",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Filo",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Sadeena",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Shildina",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Raphtalia",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Melty Q Melromarc",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Filo",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Sadeena",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Shildina",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      }
+    ]
+  },
+  {
+    "nome": "Cyberpunk Edgerunners",
+    "personagens": [
+      {
+        "nome": "Lucyna Kushinada",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Rebecca",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Lucyna Kushinada",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Rebecca",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      }
+    ]
+  },
+  {
+    "nome": "Ijiranaide, Nagatoro-san",
+    "personagens": [
+      {
+        "nome": "Hayase Nagatoro",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Maki Gamou",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Yoshi",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Sakura",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Sana Sunomiya",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Hayase Nagatoro",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Maki Gamou",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Yoshi",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Sakura",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Sana Sunomiya",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      }
+    ]
+  },
+  {
+    "nome": "Boku no Hero Academia",
+    "personagens": [
+      {
+        "nome": "Midnight",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Mina Ashido",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Ochaco Uraraka",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Kyoka Jiro",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Momo Yaoyorozu",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Yui Kodai",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Mei Hatsume",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "0"
+      },
+      {
+        "nome": "Nejire Hado",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Camie Utsushimi",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Saiko Intelli",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Mirko",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Mt. Lady",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Mandalay",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Pixie-Bob",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Nana Shimura",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Himiko Toga",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Izuku Midoriya",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "9"
+      },
+      {
+        "nome": "Katsuki Bakugo",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Shoto Todoroki",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Eraser Head",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Hawks",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Dabi",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Overhaul",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Midnight",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Mina Ashido",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Ochaco Uraraka",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Kyoka Jiro",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Momo Yaoyorozu",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Yui Kodai",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Mei Hatsume",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "0"
+      },
+      {
+        "nome": "Nejire Hado",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Camie Utsushimi",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Saiko Intelli",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Mirko",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Mt. Lady",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Mandalay",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Pixie-Bob",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Nana Shimura",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Himiko Toga",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Izuku Midoriya",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "9"
+      },
+      {
+        "nome": "Katsuki Bakugo",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Shoto Todoroki",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Eraser Head",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Hawks",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Dabi",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Overhaul",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      }
+    ]
+  },
+  {
+    "nome": "Chainsaw Man",
+    "personagens": [
+      {
+        "nome": "Power",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Kobeni Higashiyama",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Himeno",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Makima",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Reze",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Asa Mitaka",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Aki Hayakawa",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Power",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Kobeni Higashiyama",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Himeno",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Makima",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Reze",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Asa Mitaka",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Aki Hayakawa",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      }
+    ]
+  },
+  {
+    "nome": "One Piece",
+    "personagens": [
+      {
+        "nome": "Yamato",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Robin",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Boa Hancock",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Nami",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Yamato",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Robin",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Boa Hancock",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Nami",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      }
+    ]
+  },
+  {
+    "nome": "Dororo",
+    "personagens": [
+      {
+        "nome": "Mio",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Nui No Kata",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Dororo",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Hyakkimaru",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Mio",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Nui No Kata",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Dororo",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Hyakkimaru",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      }
+    ]
+  },
+  {
+    "nome": "Baldur's Gate 3",
+    "personagens": [
+      {
+        "nome": "Shadowheart",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "10"
+      },
+      {
+        "nome": "Minthara",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Mizora",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Shadowheart",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "10"
+      },
+      {
+        "nome": "Minthara",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Mizora",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      }
+    ]
+  },
+  {
+    "nome": "NieR Automata",
+    "personagens": [
+      {
+        "nome": "2B",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "8"
+      },
+      {
+        "nome": "A2",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Commander White",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "2B",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "8"
+      },
+      {
+        "nome": "A2",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Commander White",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      }
+    ]
+  },
+  {
+    "nome": "League of Legends",
+    "personagens": [
+      {
+        "nome": "Ahri",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "27"
+      },
+      {
+        "nome": "Akali",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "21"
+      },
+      {
+        "nome": "Ashe",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "24"
+      },
+      {
+        "nome": "Briar",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Caitlyn",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "17"
+      },
+      {
+        "nome": "Diana",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Fiora",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Gwen",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Irelia",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "25"
+      },
+      {
+        "nome": "Kai sa",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Karma",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "18"
+      },
+      {
+        "nome": "Katarina",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "24"
+      },
+      {
+        "nome": "LeBlanc",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Leona",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "15"
+      },
+      {
+        "nome": "Lux",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "15"
+      },
+      {
+        "nome": "Miss Fortune",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "33"
+      },
+      {
+        "nome": "Morgana",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "23"
+      },
+      {
+        "nome": "Nidalee",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Nilah",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Qiyana",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Quinn",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Rell",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Riven",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "15"
+      },
+      {
+        "nome": "Seraphine",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Sivir",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "15"
+      },
+      {
+        "nome": "Sona",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "15"
+      },
+      {
+        "nome": "Xayah",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Zeri",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Aphelios",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Ezreal",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "9"
+      },
+      {
+        "nome": "Hwei",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Kayn",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Sett",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "9"
+      },
+      {
+        "nome": "Sylas",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Viego",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Yasuo",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "15"
+      },
+      {
+        "nome": "Yone",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "9"
+      },
+      {
+        "nome": "Ahri",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "27"
+      },
+      {
+        "nome": "Akali",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "21"
+      },
+      {
+        "nome": "Ashe",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "24"
+      },
+      {
+        "nome": "Briar",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Caitlyn",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "17"
+      },
+      {
+        "nome": "Diana",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Fiora",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Gwen",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Irelia",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "25"
+      },
+      {
+        "nome": "Kai sa",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Karma",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "18"
+      },
+      {
+        "nome": "Katarina",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "24"
+      },
+      {
+        "nome": "LeBlanc",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Leona",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "15"
+      },
+      {
+        "nome": "Lux",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "15"
+      },
+      {
+        "nome": "Miss Fortune",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "33"
+      },
+      {
+        "nome": "Morgana",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "23"
+      },
+      {
+        "nome": "Nidalee",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Nilah",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Qiyana",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Quinn",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Rell",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Riven",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "15"
+      },
+      {
+        "nome": "Seraphine",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Sivir",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "15"
+      },
+      {
+        "nome": "Sona",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "15"
+      },
+      {
+        "nome": "Xayah",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Zeri",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Aphelios",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Ezreal",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "9"
+      },
+      {
+        "nome": "Hwei",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Kayn",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Sett",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "9"
+      },
+      {
+        "nome": "Sylas",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Viego",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "6"
+      },
+      {
+        "nome": "Yasuo",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "15"
+      },
+      {
+        "nome": "Yone",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "9"
+      }
+    ]
+  },
+  {
+    "nome": "Valorant",
+    "personagens": [
+      {
+        "nome": "Sage",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Viper",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Reyna",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Jett",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Neon",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Fade",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "DeadLock",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Sage",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Viper",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Reyna",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Jett",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Neon",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Fade",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "DeadLock",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      }
+    ]
+  },
+  {
+    "nome": "Overwatch",
+    "personagens": [
+      {
+        "nome": "Ashe",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "D.Va",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Juno",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Kiriko",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Widowmaker",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Ashe",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "D.Va",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Juno",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Kiriko",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "5"
+      },
+      {
+        "nome": "Widowmaker",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      }
+    ]
+  },
+  {
+    "nome": "Final Fantasy",
+    "personagens": [
+      {
+        "nome": "Tifa Lockhart",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "9"
+      },
+      {
+        "nome": "Tifa Lockhart",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "9"
+      }
+    ]
+  },
+  {
+    "nome": "Stardew Valley",
+    "personagens": [
+      {
+        "nome": "Abigail",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Emily",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Haley",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Leah",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Penny",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Caroline",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Robin",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Sandy",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      },
+      {
+        "nome": "Abigail",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Emily",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Haley",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Leah",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Penny",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Caroline",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Robin",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "3"
+      },
+      {
+        "nome": "Sandy",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "1"
+      }
+    ]
+  },
+  {
+    "nome": "Resident Evil",
+    "personagens": [
+      {
+        "nome": "Ada Wong",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Claire Redfield",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Helena Harper",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Jill Valentine",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "10"
+      },
+      {
+        "nome": "Ashley Graham",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Sheva Alomar",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Leon Kennedy",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      },
+      {
+        "nome": "Ada Wong",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Claire Redfield",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Helena Harper",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Jill Valentine",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "10"
+      },
+      {
+        "nome": "Ashley Graham",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Sheva Alomar",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "4"
+      },
+      {
+        "nome": "Leon Kennedy",
+        "sexo": "M",
+        "variacaoList": [],
+        "numeroReferencia": "12"
+      }
+    ]
+  },
+  {
+    "nome": "Cyberpunk 2077",
+    "personagens": [
+      {
+        "nome": "Panam",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Panam",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      }
+    ]
+  },
+  {
+    "nome": "Street Fighter",
+    "personagens": [
+      {
+        "nome": "Chun-Li",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "9"
+      },
+      {
+        "nome": "Cammy",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Juri Han",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "10"
+      },
+      {
+        "nome": "Chun-Li",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "9"
+      },
+      {
+        "nome": "Cammy",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "7"
+      },
+      {
+        "nome": "Juri Han",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "10"
+      }
+    ]
+  },
+  {
+    "nome": "Cross Code",
+    "personagens": [
+      {
+        "nome": "Lea",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Emilienator",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Shizuka",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Lea",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Emilienator",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      },
+      {
+        "nome": "Shizuka",
+        "sexo": "F",
+        "variacaoList": [],
+        "numeroReferencia": "2"
+      }
+    ]
+  }
+]

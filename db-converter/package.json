@@ -1,0 +1,13 @@
+{
+  "name": "db-converter",
+  "version": "1.0.0",
+  "description": "A project to convert hardcoded database entries into JSON format.",
+  "main": "src/converter.js",
+  "scripts": {
+    "start": "node src/converter.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
