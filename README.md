@@ -22,23 +22,22 @@ db-converter
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd db-converter
+   git clone https://github.com/luicaod/js_to_json_converter
    ```
 
 2. **Install dependencies:**
    ```bash
    npm install
    ```
+3. **Add your .js database in 'data' folder.
 
-3. **Run the converter:**
+4. **Run the converter:**
    ```bash
    node src/converter.js
    ```
 
-4. **Check the output:**
+5. **Check the output:**
    The JSON output will be saved in `src/output/result.json`.
 
 ## License
-
 This project is licensed under the MIT License.
